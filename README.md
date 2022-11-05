@@ -1,6 +1,4 @@
-# iamAshish/README.md
-
-Hey there! I'm Ashish.
+# Hey there! I'm Ashish.
 
 👨🏻‍💻  About Me
 
